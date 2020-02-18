@@ -1,3 +1,7 @@
 abcdefgh
 
+<<<<<<< HEAD
 Hi Srinath - I have cloned your file :)
+=======
+changes made in akshay branch 2
+>>>>>>> 026e10c27a6a83855de8df230fc5ec3f11b8710e
